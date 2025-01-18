@@ -1,1 +1,8 @@
 pip install -r requirements.txt
+opencv-python
+huggingface-hub
+ultralytics
+transformers
+torch
+pillow
+pyttsx3
